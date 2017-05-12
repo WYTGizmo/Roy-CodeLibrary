@@ -1,2 +1,2 @@
 # Roy-CodeLibrary
-年轻，但不气盛。
+Try my hand at GitHub.
